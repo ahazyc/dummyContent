@@ -2,32 +2,32 @@
 <Content >
   <item 
     hdgridposterurl = "https://m.media-amazon.com/images/M/MV5BYmM0NzRiODEtMTIzNS00MTgwLWFjZDQtNjUxZjI0MDdjZWQ4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" 
-    shortdescriptionline1 = "Let It Snow" 
+    Title = "Let It Snow" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     x = "0" y = "0" />
   <item 
     hdgridposterurl = "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Noelle_poster.jpeg/220px-Noelle_poster.jpeg" 
-    shortdescriptionline1 = "Noelle" 
+    Title = "Noelle" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
     x = "0" y = "1" />
   <item 
     hdgridposterurl = "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0q0qgJIciW_bpabJxWEO8hj8VGToY7XtNr82iQfLk_FOEt2oY" 
-    shortdescriptionline1 = "Happiest Season" 
+    Title = "Happiest Season" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     x = "0" y = "2" />
     <item 
     hdgridposterurl = "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwW_d9TpJ3lul8wIiW0hZqB5E0jKSgtzEnuIbtOEX0ryZ_nOfT" 
-    shortdescriptionline1 = "FatMan" 
+    Title = "FatMan" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
     x = "1" y = "0" />
   <item 
     hdgridposterurl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3Ji6jLLU83b1Kc4eqt1BNjivPR5pJL2T5JIfGc6nlkPBxvlG" 
-    shortdescriptionline1 = "Christmas Chronicles"
+    Title = "Christmas Chronicles"
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
     x = "1" y = "1" />
   <item 
     hdgridposterurl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjfzUPQKxHtLgipNy1w4C5oT6w0nbC2-tHwaZXAvmQPSvImDc" 
-    shortdescriptionline1 = "Klaus" 
+    Title = "Klaus" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
     x = "1" y = "2" />
 </Content>
