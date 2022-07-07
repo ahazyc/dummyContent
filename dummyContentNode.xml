@@ -4,36 +4,41 @@
     hdgridposterurl = "https://m.media-amazon.com/images/M/MV5BYmM0NzRiODEtMTIzNS00MTgwLWFjZDQtNjUxZjI0MDdjZWQ4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" 
     Title = "Let It Snow" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    ShortDescriptionLine1 = "Test ShortDescriptionLine1 ShortDescriptionLine1"
+    ShortDescriptionLine1 = "Rent $1.99, Buy $14.99"
+    Description = "On Christmas Eve in Laurel, Illinois, Julie Reyes runs into rising pop star Stuart Bale on a train. He mistakes her for a fan when she tries to return his phone to him, to which she takes offense, despite his apologies."
     x = "0" y = "0" />
   <item 
     hdgridposterurl = "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Noelle_poster.jpeg/220px-Noelle_poster.jpeg" 
     Title = "Noelle" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-    ShortDescriptionLine1 = "Test ShortDescriptionLine1 ShortDescriptionLine1"
+    ShortDescriptionLine1 = "Rent $1.99, Buy $14.99"
+    Description ="imagines a North Pole where the role of Santa Claus is passed down to different generations of men in the Kringle family, meaning that the neurotic Nick (Bill Hader) is next in line, even though he doesn't want the responsibility."
     x = "0" y = "1" />
   <item 
     hdgridposterurl = "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0q0qgJIciW_bpabJxWEO8hj8VGToY7XtNr82iQfLk_FOEt2oY" 
     Title = "Happiest Season" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        ShortDescriptionLine1 = "Test ShortDescriptionLine1 ShortDescriptionLine1"
+    ShortDescriptionLine1 = "Rent $1.99, Buy $14.99"
+    Description = "A holiday romantic comedy that captures the range of emotions tied to wanting your family's acceptance, being true to yourself, and trying not to ruin Christmas by revealing a nasty secret. Meeting your girlfriend's family for the first time can be tough."
     x = "0" y = "2" />
     <item 
     hdgridposterurl = "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwW_d9TpJ3lul8wIiW0hZqB5E0jKSgtzEnuIbtOEX0ryZ_nOfT" 
     Title = "FatMan" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
-          ShortDescriptionLine1 = "Test ShortDescriptionLine1 ShortDescriptionLine1"
+    ShortDescriptionLine1 = "Rent $1.99, Buy $14.99"
     x = "1" y = "0" />
   <item 
     hdgridposterurl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3Ji6jLLU83b1Kc4eqt1BNjivPR5pJL2T5JIfGc6nlkPBxvlG" 
     Title = "Christmas Chronicles"
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-        ShortDescriptionLine1 = "Test ShortDescriptionLine1 ShortDescriptionLine1"
+    ShortDescriptionLine1 = "Rent $1.99, Buy $14.99"
+    Description = "The plot follows an unorthodox Santa Claus who must fight off an assassin sent by a vengeful naughty kid."
     x = "1" y = "1" />
   <item 
     hdgridposterurl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjfzUPQKxHtLgipNy1w4C5oT6w0nbC2-tHwaZXAvmQPSvImDc" 
     Title = "Klaus" 
     url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-        ShortDescriptionLine1 = "Test ShortDescriptionLine1 ShortDescriptionLine1"
+    ShortDescriptionLine1 = "Rent $1.99, Buy $14.99"
+    Description = "These unlikely friendships return laughter to Smeerensburg, forging a new legacy of generous neighbors, magical lore and stockings hung by the chimney with care. An animated Christmas comedy directed by Despicable Me co-creator Sergio Pablos, KLAUS co-stars Rashida Jones, Jason Schwartzman and JK Simmons. "
     x = "1" y = "2" />
 </Content>
