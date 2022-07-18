@@ -34,11 +34,4 @@
     ShortDescriptionLine1 = "Rent $1.99, Buy $14.99"
     Description = "The plot follows an unorthodox Santa Claus who must fight off an assassin sent by a vengeful naughty kid."
     x = "1" y = "1" />
-  <item 
-    hdgridposterurl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjfzUPQKxHtLgipNy1w4C5oT6w0nbC2-tHwaZXAvmQPSvImDc" 
-    Title = "Klaus" 
-    url = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-    ShortDescriptionLine1 = "Rent $1.99, Buy $14.99"
-    Description = "These unlikely friendships return laughter to Smeerensburg, forging a new legacy of generous neighbors, magical lore and stockings hung by the chimney with care. An animated Christmas comedy directed by Despicable Me co-creator Sergio Pablos, KLAUS co-stars Rashida Jones, Jason Schwartzman and JK Simmons. "
-    x = "1" y = "2" />
 </Content>
